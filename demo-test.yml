@@ -1,4 +1,3 @@
 spring:
   datasource:
-    primary:
-      username=tett
+    primary: usernametett
