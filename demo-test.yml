@@ -1,1 +1,4 @@
-spring.datasource.primary.username=wlo
+spring:
+  datasource:
+    primary:
+      username=tett
